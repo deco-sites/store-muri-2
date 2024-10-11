@@ -1,0 +1,33 @@
+{
+  "elements": [
+    {
+      "id": "kpWiQ8XqGbUkNOR4g9_-l",
+      "type": "rectangle",
+      "x": 269.46479518269246,
+      "y": 194.12800911005456,
+      "width": 194.39843749999997,
+      "height": 153.6953125,
+      "angle": 0,
+      "strokeColor": "#1e1e1e",
+      "backgroundColor": "transparent",
+      "fillStyle": "solid",
+      "strokeWidth": 2,
+      "strokeStyle": "solid",
+      "roughness": 1,
+      "opacity": 100,
+      "groupIds": [],
+      "frameId": null,
+      "roundness": {
+        "type": 3
+      },
+      "seed": 1576331470,
+      "version": 95,
+      "versionNonce": 1872292302,
+      "isDeleted": false,
+      "boundElements": [],
+      "updated": 1726605866919,
+      "link": null,
+      "locked": false
+    }
+  ]
+}
